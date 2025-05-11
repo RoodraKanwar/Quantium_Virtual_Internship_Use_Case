@@ -2,8 +2,6 @@
 ## Project Overview
 This project involves analyzing transaction and customer data for a supermarket's chips category to understand customer purchasing behavior. The goal is to provide actionable insights that will inform the Category Manager's strategic decisions for the next half-year.
 
-## Week 1
-
 ### 1. Data Cleaning & Validation:
 - Examined transaction and customer data for inconsistencies, missing values, and outliers.
 - Removed non-chip products (e.g., "Salsa") and corrected brand names (e.g., "Red" → "Red Rock Deli").
